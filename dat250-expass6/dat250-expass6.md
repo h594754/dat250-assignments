@@ -1,0 +1,7 @@
+# Issues
+Went into some issues using gradle when trying to implement the rabbitmq into the build file. But resolved it by google and I was writing the implementation in the wrong format. 
+
+<br>
+In TutorialTwo I had some issues because i set the queueDeclare first parameter to false, so had issues when running it.
+<br>
+
