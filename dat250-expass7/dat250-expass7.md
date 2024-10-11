@@ -13,3 +13,8 @@ The code where I added the docker is here: https://github.com/h594754/dat250-ass
 
 <br>
 The dockerfile is also attached here in this repo here: https://github.com/h594754/dat250-assignments/blob/main/dat250-expass7/Dockerfile
+
+
+# Photos from postgres running
+![PostgresPhoto] (images/dockerpostgres.png)
+![PostgresPhoto] (images/dockerpostgres2.png)
