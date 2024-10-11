@@ -16,5 +16,5 @@ The dockerfile is also attached here in this repo here: https://github.com/h5947
 
 
 # Photos from postgres running
-![PostgresPhoto] (images/dockerpostgres.png)
-![PostgresPhoto] (images/dockerpostgres2.png)
+![PostgresPhoto](images/dockerpostgres.png)
+![PostgresPhoto](images/dockerpostgres2.png)
